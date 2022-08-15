@@ -1,1 +1,0 @@
-# rials-blog-app
